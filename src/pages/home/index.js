@@ -8,6 +8,7 @@ import Section3 from './Section3'
 import Section4 from './Section4'
 import StudentNameSection from './StudentNameSection'
 import CourseSelectionSection from './CourseSelectionSection'
+import StudentDetailsSection from './StudentDetailsSection'
 
 const Index = (props) => {
 
@@ -20,6 +21,7 @@ const Index = (props) => {
             <Section4 />
             <StudentNameSection />
             <CourseSelectionSection />
+            <StudentDetailsSection />
         </div>
     )
 }

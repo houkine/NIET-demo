@@ -27,7 +27,7 @@ export default Index;
 const useStyles = makeStyles((theme) => ({
     TextField: {
       flex:1,
-      marginLeft:10,
+      marginLeft:20,
     },
     TextField_left: {
       flex:1,
